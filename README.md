@@ -1,7 +1,7 @@
 # Trace estimation of quantum state powers
 
 Numerical experiments illustrating the theoretical results in
-[Trace Estimation of Quantum State Powers: Sample Complexity and Computational Hardness](https://arxiv.org/pdf/2505.09563).
+[Trace Estimation of Quantum State Powers: Sample Complexity and Computational Hardness](https://arxiv.org/abs/2505.09563).
 Weak Schur sampling is simulated using the Robinson–Schensted–Knuth correspondence.
 
 ## Run
