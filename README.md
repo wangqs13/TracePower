@@ -41,6 +41,6 @@ For `q=1.5` and `q=2.5`, use `m=min(d,2500)` and `m=min(d,55)`, respectively;
 `k` is the smallest odd integer at least `ln(6m)`, and `N=kn`.
 Fixed budget ranges and random seeds are specified in `configs/`.
 
-## Acknowledgment
+## Acknowledgment 
 
 The code was developed with the assistance of Codex (ChatGPT-6 Astra).
