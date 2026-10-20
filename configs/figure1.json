@@ -1,0 +1,15 @@
+{
+  "qs": [1.25, 1.5, 2.5, 3.5],
+  "groups": 5,
+  "c": 0.5,
+  "bootstrap_replicates": 1000,
+  "states": 12,
+  "trials": 192,
+  "seed": 2026101402,
+  "group_sizes": [64, 72, 81, 91, 102, 114, 128, 144, 161, 181, 203, 228, 255, 256, 257, 287, 323, 362, 406, 456, 512, 575, 645, 724, 813, 912, 1024, 1149, 1290, 1448, 1625, 1825, 2048],
+  "families": [
+    {"family": "wishart32", "d": 32, "random": true, "stream_id": 0},
+    {"family": "uniform32", "d": 32, "random": false, "stream_id": 2},
+    {"family": "geometric85", "d": 32, "random": false, "stream_id": 4}
+  ]
+}
